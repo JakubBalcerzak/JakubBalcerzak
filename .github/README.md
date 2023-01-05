@@ -14,8 +14,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/RkJlJ6KKHD7ScHH1WS/giphy-downsized-large.gif"  />
-  ![alt text](https://media.giphy.com/media/RkJlJ6KKHD7ScHH1WS/giphy-downsized-large.gif)
+  <img height="200" src="https://github.com/JakubBalcerzak/JakubBalcerzak/blob/main/Images/motoGP.gif"  />
+  
 </div>
 
 ###
